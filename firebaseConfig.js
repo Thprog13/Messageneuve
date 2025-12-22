@@ -5,7 +5,7 @@ import { initializeApp } from "firebase/app";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyDV1mgi11kuBXZ7_BerE9PEYlF9zVwuWXE",
+
   authDomain: "studentmarketplace-b8eae.firebaseapp.com",
   projectId: "studentmarketplace-b8eae",
   storageBucket: "studentmarketplace-b8eae.firebasestorage.app",
